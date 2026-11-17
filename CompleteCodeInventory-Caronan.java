@@ -91,3 +91,13 @@ int main() {
 
     return 0;
 }
+
+1. Core Logic & Functionality
+(40 points)
+3. Correct Use of Loops & Conditionals
+(15 points)
+4. Variable Declaration & Syntax
+(10 points)
+5. Code Presentation & Output
+(5 points)
+SCORE 70/100
